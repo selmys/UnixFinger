@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2011 John A. Selmys.
+  All rights reserved. This program and the accompanying materials
+  are made available under the terms of the GNU Public License v2.0
+  which accompanies this distribution, and is available at
+  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+  
+  Contributors:
+      John A. Selmys - initial API and implementation
+-->
+<resources>
+
+    <string name="hello">Hello World, UnixFingerActivity!</string>
+    <string name="app_name">Unix Finger</string>
+    <string name="input_hint">User@Host</string>
+    <string name="about">The original Unix Finger program was written by Les Earnest in
+    1971 and was designed to retrieve information about users on a network. This 
+    protocol has largely fallen out of grace and is rarely used. 
+    \nGood luck finding an open Finger server on which to test this client. 
+    \n\nThis version of the Unix Finger client was implemented by John Selmys at 
+    Seneca College in Toronto - 2011. 
+    </string>
+
+</resources>

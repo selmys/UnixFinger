@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2011 John A. Selmys.
+  All rights reserved. This program and the accompanying materials
+  are made available under the terms of the GNU Public License v2.0
+  which accompanies this distribution, and is available at
+  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+  
+  Contributors:
+      John A. Selmys - initial API and implementation
+-->
+<resources>
+	 <color name="black">#000</color>
+     <color name="blue">#00f</color>
+     <color name="red">#f00</color> 
+</resources>
